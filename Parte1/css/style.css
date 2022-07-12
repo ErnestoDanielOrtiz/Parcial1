@@ -1,0 +1,36 @@
+ body {
+     background-color: burlywood;
+ }
+
+ img {
+     width: 50%;
+     border: black double 5px;
+ }
+
+ span {
+     font-weight: bold;
+ }
+
+ .title {
+     font-size: 20px;
+ }
+
+ .center {
+     text-align: center;
+ }
+
+.quote {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+ footer {
+     margin-top: 50px;
+     display: flex;
+     flex-direction: row-reverse;
+ }
+
+ ul {
+     display: flex;
+     flex-direction: column-reverse;
+ }
